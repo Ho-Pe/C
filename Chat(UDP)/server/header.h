@@ -3,7 +3,7 @@
 * @reporting date 19/12/12
 == */
 
-#define _WINSOCK_DEPRECATED_NO_WARNINGS  // 에러 방
+#define _WINSOCK_DEPRECATED_NO_WARNINGS  // 에러 방지
 #pragma comment(lib, "ws2_32.lib")  // 라이브러리 위치 특정
 #include <stdio.h>
 #include <stdlib.h>
