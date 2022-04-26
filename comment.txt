@@ -1,0 +1,29 @@
+# =================
+# @brief 숙련도 저장 모듈
+# @Description
+# @reporting date 21/11/24
+# @last modified 21/11/30
+# dev by Windows (encodig : utf-8)
+# =================
+
+
+/* ==
+* @brief TCP 채팅 프로그램(스레드 사용 X) - Server
+* @reporting date 19/12/23
+* @last modified 21/03/01
+* @dev by Windows 10
+== */
+
+
+/* ==
+* @brief "exit" 입력 확인 후 종료 체크
+* @param char* 입력받은 메세지
+* @return exit입력 확인 0 / 이외 1
+== */
+
+
+# =================
+# @brief 스킬 추가 모듈
+# @param (str)name$사용자에게 입력받은 스킬 이름 by MySkillBook.py
+# @last modified 21/11/30
+# =================
